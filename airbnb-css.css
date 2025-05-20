@@ -1,0 +1,106 @@
+
+
+.container{
+   
+   
+    
+    height:1000px;
+    width:1100px;
+    background-color: rgb(236, 229, 229);
+    margin:200px;
+    
+}
+
+#t1 {
+  
+font-size: 30px;
+padding:10px;
+
+}
+
+#links{
+ font-size: 20px;
+ padding:10px;
+ position:relative;
+ left:10px;
+  bottom:70px;
+  
+}
+#t2{
+font-size: 15px;
+  position:absolute;
+  bottom:900px;
+  
+}
+
+#l1{
+  height: 1px; /* adjust the height to reduce the line thickness */
+  width: 100%; /* adjust the width to reduce the line length */
+}
+
+
+#l2{
+  height: 1px; /* adjust the height to reduce the line thickness */
+  width: 100%; /* adjust the width to reduce the line length */
+  position:relative;
+  bottom:70px;
+  
+}
+
+.s-image:{
+
+
+display:flex; 
+width: 30px;
+height:70%;
+
+
+
+}
+
+.side-image1{
+
+  position:relative;
+  bottom:80px;
+
+}
+
+
+.side-image2{
+
+  position:relative;
+  bottom:710px;
+  left:640px;
+  
+
+
+}
+
+.side-image3{
+
+position:relative;
+bottom:720px;
+left:0px;
+  height:150px;
+  width:1200px;
+
+}
+
+
+.d-text{
+
+position:relative;
+bottom:500px;
+left:260px;
+}
+
+.copy{
+position:relative;
+bottom:10px;
+
+
+
+}
+
+
+
